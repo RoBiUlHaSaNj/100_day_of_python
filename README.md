@@ -96,6 +96,7 @@ o	Day 7: Practice with small projects
 o	Day 1-7: Build and deploy a full-fledged Python application
 ________________________________________
 Resources:
-•	Books: Automate the Boring Stuff with Python, Python Crash Course, Fluent Python
-•	Online Courses: Coursera, Udemy, edX
-•	Practice: LeetCode, HackerRank, Project Euler
+•	Books for basic python : PYTHON CRASH COURSE,Python Programming:
+An Introduction to Computer Science,Learning Scientific Programming with Python.
+(Best BOOK EVER PYTHON CRASH COURSE)
+
