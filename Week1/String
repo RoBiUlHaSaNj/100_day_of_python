@@ -1,3 +1,4 @@
+#for one line
 my="hello my name robiul"
 you='my name alice'
 print(my,you)
@@ -6,7 +7,7 @@ print(you+my)
 a = "Hello, World!"
 print(len(a))
 
-
+#for many line
 para="""Climate change is a global issue,
  and yet the effects of our climate 
 crisis do not impact us all equally. 
@@ -26,25 +27,43 @@ North must take accountability for its role
 , and that solutions must not only address 
 GHG emission reductions globally
  but address climate justice inequalities as well."""
+
 print(para)
+#find index vlaue
 word = "Python"
 print(word[0])  # Output: P
 print(word[5])  # Output: n
+
+#find index range base  value
+
 word = "Python"
 print(word[0:2])  # Output: Py (characters from index 0 to 1)
 print(word[2:5])  # Output: tho (characters from index 2 to 4)
 word = "Python"
 print(word[0:2])  # Output: Py (characters from index 0 to 1)
 print(word[2:5])  # Output: tho (characters from index 2 to 4)
+
+
 #lower() and upper(): Convert the string to lowercase or uppercase.
 
 print("Hello".lower())  # Output: hello
 print("world".upper())  # Output: WORLD
 text = "  Hello, World!  "
 print(text.strip())  # Output: "Hello, World!"strip(): Remove leading and trailing whitespace (or other characters).
+
+
 #replace(): Replace all occurrences of a substring with another substring.
+
+string = "Hello python"
+new_string = string.replace("Hello", "Good Bye")
+
+print(new_string)
+
 print("Hello, World!".replace("World", "Python"))  # Output: Hello, Python!
+
+
 #split(): Split the string into a list of substrings based on a delimiter.
+
 words = "Python is fun".split()  # Splits by space
 print(words)  # Output: ['Python', 'is', 'fun']
 
@@ -139,7 +158,9 @@ print(text.endswith("on"))    # Output: True
 print(text.isalnum())         # Output: True (no spaces or special characters)
 print("12345".isdigit())      # Output: True
 
+
 #11. Advanced: Regular Expressions (Regex)
+#not enough 
 
 
 import re
