@@ -1,4 +1,4 @@
-
+#1 Age Classification:
 age = 16
 
 if age >= 18:
@@ -7,6 +7,8 @@ elif age >= 13:
     print("You are a teenager.")
 else:
     print("You are a child.")
+
+#2 Grading System:
 grade = 85
 
 if grade >= 90:
@@ -19,6 +21,9 @@ elif grade >= 60:
     print("You got a D.")
 else:
     print("You got an F.")
+
+
+#3 Club Entry:
 age = 20
 has_ID = True
 is_member = False
@@ -27,6 +32,8 @@ if (age >= 18 and has_ID) or is_member:
     print("You can enter the club.")
 else:
     print("You cannot enter the club.")
+
+#4 Multiple Conditions:
 a = 200
 b = 33
 c = 500
