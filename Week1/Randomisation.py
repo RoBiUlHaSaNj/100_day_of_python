@@ -55,3 +55,25 @@ def roll_dice(num_dice=2):
 
 # Simulate rolling two dice
 print("You rolled:", roll_dice(2))
+
+'''
+Basic Random Functions:
+
+random.random(): Generates a random float between 0.0 and 1.0.
+random.randint(a, b): Generates a random integer between a and b (inclusive).
+random.randrange(start, stop[, step]): Chooses a random number from the specified range.
+random.choice(sequence): Selects a random element from a sequence.
+random.shuffle(sequence): Shuffles the elements of a list in place.
+random.sample(sequence, k): Returns k unique random elements from the sequence.
+random.seed(a=None): Seeds the random number generator for reproducibility.
+random.uniform(a, b): Generates a random float between a and b.
+Secure Random Functions:
+
+secrets.token_bytes(16): Generates a secure random byte string.
+secrets.choice(sequence): Selects a secure random element from a sequence.
+Dice Rolling Function:
+
+The function roll_dice currently returns only one dice roll due to the incorrect list construction. 
+To roll the specified number of dice, it should be adjusted to include a loop to generate multiple dice rolls.
+
+'''
