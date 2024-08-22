@@ -1,13 +1,16 @@
 #for one line
+
 my="hello my name robiul"
 you='my name alice'
 print(my,you)
 print(you+my)
 
+#find length
 a = "Hello, World!"
 print(len(a))
 
 #for many line
+
 para="""Climate change is a global issue,
  and yet the effects of our climate 
 crisis do not impact us all equally. 
@@ -28,7 +31,10 @@ North must take accountability for its role
 GHG emission reductions globally
  but address climate justice inequalities as well."""
 
+
 print(para)
+
+
 #find index vlaue
 word = "Python"
 print(word[0])  # Output: P
