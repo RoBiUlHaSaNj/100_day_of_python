@@ -1,4 +1,6 @@
-**1. Basics (Weeks 1-2) Follow https://github.com/RoBiUlHaSaNj/Lern_Python/tree/main/Week1
+**1. Basics (Weeks 1-2) Follow <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/tree/main/Week1" target="_blank">week1</a>
+
+
 •	Week 1: Python Fundamentals
 o	Day 1-2: Review basic syntax, variables, and data types
 
