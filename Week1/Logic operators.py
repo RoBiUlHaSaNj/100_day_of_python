@@ -1,20 +1,20 @@
-1. and
+#1. and
 x = True
 y = False
 result = x and y  # False because y is False
 
-2. or
+#2. or
 
 x = True
 y = False
 result = x or y  # True because x is True
 
-3. not
+#3. not
 x = True
 result = not x  # False because x is True
 
 
-4. Combining Logical Operators
+#4. Combining Logical Operators
 x = 5
 y = 10
 
@@ -24,7 +24,7 @@ result = (x > 0) and (y < 20)  # True
 # Check if x is less than 0 or y is greater than 5
 result = (x < 0) or (y > 5)   # True
 
-5. Short-Circuit Evaluation
+#5. Short-Circuit Evaluation
 
 def func1():
     print("func1 called")
