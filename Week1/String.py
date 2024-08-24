@@ -49,6 +49,16 @@ word = "Python"
 print(word[0:2])  # Output: Py (characters from index 0 to 1)
 print(word[2:5])  # Output: tho (characters from index 2 to 4)
 
+#f-string
+name = "Alice"
+age = 30
+
+# Using an f-string to format the string
+message = f"Hello, my name is {name} and I am {age} years old."
+
+print(message)
+
+
 
 #lower() and upper(): Convert the string to lowercase or uppercase.
 
