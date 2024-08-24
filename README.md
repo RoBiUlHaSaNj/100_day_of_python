@@ -1,7 +1,7 @@
-**1. Basics (Weeks 1-2) Follow <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/tree/main/Week1" target="_blank">week1</a>
+**1. Basics (Weeks 1) Follow <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/tree/main/Week1" target="_blank">week1</a>
 
 
-**1. Basics (Weeks 1-2) Follow week1
+
 
 • Week 1: Python Fundamentals
 
