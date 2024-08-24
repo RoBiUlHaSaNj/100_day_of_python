@@ -15,8 +15,8 @@
 practice  those problem :  
 
      1. Number Guessing Game
-      Concepts Used: Randomization, User Input, Loops, If-Else, Variables
-      2. Rock, Paper, Scissors Game
+     Concepts Used: Randomization, User Input, Loops, If-Else, Variables
+     2. Rock, Paper, Scissors Game
      Concepts Used: User Input, If-Else, Loops, Strings, Logical Operators
 
       3. Basic Calculator
