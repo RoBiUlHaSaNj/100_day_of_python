@@ -16,21 +16,16 @@ practice  those problem :
 
      1. Number Guessing Game
      Concepts Used: Randomization, User Input, Loops, If-Else, Variables
- <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/guessing_game.py">Number Guessing 
-     Game</a>
-
+     
      2. Rock, Paper, Scissors Game
      Concepts Used: User Input, If-Else, Loops, Strings, Logical Operators
- <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/Rock%2C%20Paper%2C%20Scissors%20Game.py"> Rock, Paper, Scissors Game</a>
-    
-
-      3. Basic Calculator
+     
+     3. Basic Calculator
      Concepts Used: User Input, Variables, If-Else, Logical Operators
-
+     
      4. Password Generator
     Concepts Used: Strings, Randomization, Loops, Logical Operators, User Input
-<a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/generate_password.py"> Password Generator</a>
-
+    
     5. Simple Quiz Game
      Concepts Used: Strings, Loops, If-Else, Variables, Logical Operators, User Input
 
@@ -48,3 +43,8 @@ practice  those problem :
 
     10. Simple Bank Account System
      Concepts Used: If-Else, Loops, Variables, User Input
+
+ <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/guessing_game.py">Number Guessing 
+     Game</a>  
+  <a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/Rock%2C%20Paper%2C%20Scissors%20Game.py"> Rock, Paper, Scissors Game</a>    
+<a href="https://github.com/RoBiUlHaSaNj/Lern_Python/blob/main/project/generate_password.py"> Password Generator</a>
