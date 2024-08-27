@@ -23,9 +23,6 @@ student_info = {
 # Empty dictionary
 empty_dict = {}
 
-
-
-
 #Accessing Dictionary Values
 
 name = student_info["name"]
