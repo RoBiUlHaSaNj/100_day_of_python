@@ -32,6 +32,17 @@ if (age >= 18 and has_ID) or is_member:
     print("You can enter the club.")
 else:
     print("You cannot enter the club.")
+    
+#leap year
+print("Check if a Year is a leap year or not:")
+num = int(input("Enter your Year: "))
+
+if (num % 400 == 0) or (num % 100 != 0 and num % 4 == 0):
+    print("Leap year")
+else:
+    print("Not a leap year")
+
+
 
 #4 Multiple Conditions:
 a = 200
